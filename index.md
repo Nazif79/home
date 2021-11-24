@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/Nazif79/inazifnani.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction 
+what is web hosting, how to create your own server at home for web hosting, what is web hosting?, how much does web hosting cost, what is web hosting vs domain, what is web hosting sites, what is a web hosting service, how to start a web hosting business, how much is web hosting, what is web hosting and how does it work, how to start web hosting business, what is shared web hosting, which web hosting, what is the best web hosting service, how does web hosting work, what is web hosting company, what is best web hosting service, what does web hosting mean, what are the best web hosting services, how to transfer web hosting from one company to another, what is a web hosting company, what is a web hosting provider, how to setup your own web hosting server, what is web domain and hosting, what is web hosting provider, what are the best web hosting sites, what is the best web hosting site, what is a web hosting, how to setup your own server for web hosting, what is bandwidth in web hosting, what is web hosting bandwidth, who web hosting, how to start web hosting company, what is the best web hosting site for small business, what is the best web hosting, what is domain and web hosting, who is web hosting, how to find web hosting, how to categorize web hosting expenses, what does web hosting do, what is web hosting and domain, what is vps web hosting, how to start a web hosting company, how to get a free domain name and web hosting, what is web hosting account, what is web hosting service, how to web hosting, what is the cheapest web hosting, what is static web hosting, how much is web hosting per month
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Getting Started
+web hosting, web hosting malaysia, free web hosting, web hosting in malaysia, what is web hosting, best web hosting, malaysia web hosting, web hosting services, best web hosting malaysia, web hosting meaning, cheap web hosting, cheap web hosting malaysia, free web hosting malaysia, web hosting free, best free web hosting, web hosting companies, free web hosting and domain, google web hosting, cheapest web hosting, singapore web hosting, web hosting ipoh, web hosting comparison, free web hosting no ads, web hosting reviews, exabytes web hosting, web hosting on godaddy, web hosting companies in malaysia, godaddy web hosting, top free web hosting, web hosting godaddy, web hosting and domain, web hosting malaysia terbaik, web hosting aws, internet web hosting, cheap web hosting sites, aws web hosting, types of web hosting, web hosting types, web hosting cpanel, web hosting talk, web hosting linux, free web hosting sites, fungsi web hosting, cloud web hosting, malaysian web hosting, web hosting cloud, web hosting with cpanel, web hosting google cloud, internet web hosting malaysia, web hosting malaysia murah:
 
-### Markdown
+1.	[Web Hosting](https://inazifnani.com/)
+2.	[Web builder](https://inazifnani.com/)
+3.	[WordPress Themes](https://inazifnani.com/)
+4.	[Keyword Research Tool](https://inazifnani.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Build and Test
+what is web hosting, how to create your own server at home for web hosting, what is web hosting?, how much does web hosting cost, what is web hosting vs domain, what is web hosting sites, what is a web hosting service, how to start a web hosting business, how much is web hosting, what is web hosting and how does it work, how to start web hosting business, what is shared web hosting, which web hosting, what is the best web hosting service, how does web hosting work, what is web hosting company, what is best web hosting service, what does web hosting mean, what are the best web hosting services, how to transfer web hosting from one company to another, what is a web hosting company, what is a web hosting provider, how to setup your own web hosting server, what is web domain and hosting, what is web hosting provider, what are the best web hosting sites, what is the best web hosting site, what is a web hosting, how to setup your own server for web hosting, what is bandwidth in web hosting, what is web hosting bandwidth, who web hosting, how to start web hosting company, what is the best web hosting site for small business, what is the best web hosting, what is domain and web hosting, who is web hosting, how to find web hosting, how to categorize web hosting expenses, what does web hosting do, what is web hosting and domain, what is vps web hosting, how to start a web hosting company, how to get a free domain name and web hosting, what is web hosting account, what is web hosting service, how to web hosting, what is the cheapest web hosting, what is static web hosting, how much is web hosting per month
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Contribute
+Explain how other users and developers can contribute to make your code better. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nazif79/inazifnani.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want to learn more about creating good readme files then refer the following [guidelines](https://inazifnani.com/). You can also seek inspiration from the below readme files:
+- 
